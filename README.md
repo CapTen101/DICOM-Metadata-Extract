@@ -1,5 +1,5 @@
 # DICOM-Metadata-Extract
-A Simple JAVA project to extract metadata out of the DICOM image files using pixelmed.jar. 
+> A Simple JAVA project to extract metadata out of the DICOM image files using pixelmed.jar. 
 
 * This Application automatically locates the DICOM image files from the project directory.
 * It then extracts the necessary metadata out of them and stores it in a text file **DICOM_MetaData.txt** in the project directory.
