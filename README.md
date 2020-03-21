@@ -1,4 +1,4 @@
-# DICOM-Metadata-Extract
+# DICOM-Metadata-Extract (Code Challenge)
 > A Simple JAVA project to extract metadata out of the DICOM image files using pixelmed.jar. 
 
 * This Application automatically locates the DICOM image files from the project directory.
