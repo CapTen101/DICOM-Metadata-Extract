@@ -1,150 +1,17 @@
-Patient Name: Anonymized
-Patient ID: 0
+Patient Name: 
+Patient ID: TCGA-08-0244
 Transfer Syntax: 1.2.840.10008.1.2
-SOP Class: 1.2.840.10008.5.1.4.1.1.7
-Modality: OT
-Samples Per Pixel: 1
-Photometric Interpretation: MONOCHROME2
-Pixel Spacing: NOT FOUND
-Bits Allocated: 8
-Bits Stored: 8
-High Bit: 7
-Number of frames: 1
-Width: 512
-Height: 512
-Is Grayscale?: true
-Pixel Data present: true
-
-
-
-Patient Name: Rubo DEMO
-Patient ID: 556342B
-Transfer Syntax: 1.2.840.10008.1.2.4.50
-SOP Class: 1.2.840.10008.5.1.4.1.1.12.1
-Modality: XA
-Samples Per Pixel: 1
-Photometric Interpretation: MONOCHROME2
-Pixel Spacing: NOT FOUND
-Bits Allocated: 8
-Bits Stored: 8
-High Bit: 7
-Number of frames: 96
-Width: 512
-Height: 512
-Is Grayscale?: true
-Pixel Data present: true
-
-
-
-Patient Name: Rubo DEMO
-Patient ID: 322-292-73-6
-Transfer Syntax: 1.2.840.10008.1.2.4.50
-SOP Class: 1.2.840.10008.5.1.4.1.1.12.1
-Modality: XA
-Samples Per Pixel: 1
-Photometric Interpretation: MONOCHROME2
-Pixel Spacing: NOT FOUND
-Bits Allocated: 8
-Bits Stored: 8
-High Bit: 7
-Number of frames: 17
-Width: 512
-Height: 512
-Is Grayscale?: true
-Pixel Data present: true
-
-
-
-Patient Name: BRAIN
-Patient ID: EZdPLEzJ
-Transfer Syntax: 1.2.840.10008.1.2.1
 SOP Class: 1.2.840.10008.5.1.4.1.1.4
 Modality: MR
 Samples Per Pixel: 1
 Photometric Interpretation: MONOCHROME2
-Pixel Spacing: 4\4
+Pixel Spacing: 1.0156250000\1.0156250000
 Bits Allocated: 16
-Bits Stored: 12
-High Bit: 11
+Bits Stored: 16
+High Bit: 15
 Number of frames: 1
-Width: 384
-Height: 384
-Is Grayscale?: true
-Pixel Data present: true
-
-
-
-Patient Name: Anonymized
-Patient ID: 0
-Transfer Syntax: 1.2.840.10008.1.2
-SOP Class: 1.2.840.10008.5.1.4.1.1.7
-Modality: OT
-Samples Per Pixel: 1
-Photometric Interpretation: MONOCHROME2
-Pixel Spacing: NOT FOUND
-Bits Allocated: 8
-Bits Stored: 8
-High Bit: 7
-Number of frames: 1
-Width: 512
-Height: 512
-Is Grayscale?: true
-Pixel Data present: true
-
-
-
-Patient Name: Rubo DEMO
-Patient ID: 556342B
-Transfer Syntax: 1.2.840.10008.1.2.4.50
-SOP Class: 1.2.840.10008.5.1.4.1.1.12.1
-Modality: XA
-Samples Per Pixel: 1
-Photometric Interpretation: MONOCHROME2
-Pixel Spacing: NOT FOUND
-Bits Allocated: 8
-Bits Stored: 8
-High Bit: 7
-Number of frames: 96
-Width: 512
-Height: 512
-Is Grayscale?: true
-Pixel Data present: true
-
-
-
-Patient Name: Rubo DEMO
-Patient ID: 322-292-73-6
-Transfer Syntax: 1.2.840.10008.1.2.4.50
-SOP Class: 1.2.840.10008.5.1.4.1.1.12.1
-Modality: XA
-Samples Per Pixel: 1
-Photometric Interpretation: MONOCHROME2
-Pixel Spacing: NOT FOUND
-Bits Allocated: 8
-Bits Stored: 8
-High Bit: 7
-Number of frames: 17
-Width: 512
-Height: 512
-Is Grayscale?: true
-Pixel Data present: true
-
-
-
-Patient Name: BRAIN
-Patient ID: EZdPLEzJ
-Transfer Syntax: 1.2.840.10008.1.2.1
-SOP Class: 1.2.840.10008.5.1.4.1.1.4
-Modality: MR
-Samples Per Pixel: 1
-Photometric Interpretation: MONOCHROME2
-Pixel Spacing: 4\4
-Bits Allocated: 16
-Bits Stored: 12
-High Bit: 11
-Number of frames: 1
-Width: 384
-Height: 384
+Width: 256
+Height: 256
 Is Grayscale?: true
 Pixel Data present: true
 
@@ -226,153 +93,20 @@ Pixel Data present: true
 
 
 
-Patient Name: Anonymized
-Patient ID: 0
+Patient Name: 
+Patient ID: TCGA-08-0244
 Transfer Syntax: 1.2.840.10008.1.2
-SOP Class: 1.2.840.10008.5.1.4.1.1.7
-Modality: OT
-Samples Per Pixel: 1
-Photometric Interpretation: MONOCHROME2
-Pixel Spacing: NOT FOUND
-Bits Allocated: 8
-Bits Stored: 8
-High Bit: 7
-Number of frames: 1
-Width: 512
-Height: 512
-Is Grayscale?: true
-Pixel Data present: true
-
-
-
-Patient Name: Rubo DEMO
-Patient ID: 556342B
-Transfer Syntax: 1.2.840.10008.1.2.4.50
-SOP Class: 1.2.840.10008.5.1.4.1.1.12.1
-Modality: XA
-Samples Per Pixel: 1
-Photometric Interpretation: MONOCHROME2
-Pixel Spacing: NOT FOUND
-Bits Allocated: 8
-Bits Stored: 8
-High Bit: 7
-Number of frames: 96
-Width: 512
-Height: 512
-Is Grayscale?: true
-Pixel Data present: true
-
-
-
-Patient Name: Rubo DEMO
-Patient ID: 322-292-73-6
-Transfer Syntax: 1.2.840.10008.1.2.4.50
-SOP Class: 1.2.840.10008.5.1.4.1.1.12.1
-Modality: XA
-Samples Per Pixel: 1
-Photometric Interpretation: MONOCHROME2
-Pixel Spacing: NOT FOUND
-Bits Allocated: 8
-Bits Stored: 8
-High Bit: 7
-Number of frames: 17
-Width: 512
-Height: 512
-Is Grayscale?: true
-Pixel Data present: true
-
-
-
-Patient Name: BRAIN
-Patient ID: EZdPLEzJ
-Transfer Syntax: 1.2.840.10008.1.2.1
 SOP Class: 1.2.840.10008.5.1.4.1.1.4
 Modality: MR
 Samples Per Pixel: 1
 Photometric Interpretation: MONOCHROME2
-Pixel Spacing: 4\4
+Pixel Spacing: 1.0156250000\1.0156250000
 Bits Allocated: 16
-Bits Stored: 12
-High Bit: 11
+Bits Stored: 16
+High Bit: 15
 Number of frames: 1
-Width: 384
-Height: 384
-Is Grayscale?: true
-Pixel Data present: true
-
-
-
-Patient Name: Anonymized
-Patient ID: 0
-Transfer Syntax: 1.2.840.10008.1.2
-SOP Class: 1.2.840.10008.5.1.4.1.1.7
-Modality: OT
-Samples Per Pixel: 1
-Photometric Interpretation: MONOCHROME2
-Pixel Spacing: NOT FOUND
-Bits Allocated: 8
-Bits Stored: 8
-High Bit: 7
-Number of frames: 1
-Width: 512
-Height: 512
-Is Grayscale?: true
-Pixel Data present: true
-
-
-
-Patient Name: Rubo DEMO
-Patient ID: 556342B
-Transfer Syntax: 1.2.840.10008.1.2.4.50
-SOP Class: 1.2.840.10008.5.1.4.1.1.12.1
-Modality: XA
-Samples Per Pixel: 1
-Photometric Interpretation: MONOCHROME2
-Pixel Spacing: NOT FOUND
-Bits Allocated: 8
-Bits Stored: 8
-High Bit: 7
-Number of frames: 96
-Width: 512
-Height: 512
-Is Grayscale?: true
-Pixel Data present: true
-
-
-
-Patient Name: Rubo DEMO
-Patient ID: 322-292-73-6
-Transfer Syntax: 1.2.840.10008.1.2.4.50
-SOP Class: 1.2.840.10008.5.1.4.1.1.12.1
-Modality: XA
-Samples Per Pixel: 1
-Photometric Interpretation: MONOCHROME2
-Pixel Spacing: NOT FOUND
-Bits Allocated: 8
-Bits Stored: 8
-High Bit: 7
-Number of frames: 17
-Width: 512
-Height: 512
-Is Grayscale?: true
-Pixel Data present: true
-
-
-
-Patient Name: BRAIN
-Patient ID: EZdPLEzJ
-Transfer Syntax: 1.2.840.10008.1.2.1
-SOP Class: 1.2.840.10008.5.1.4.1.1.4
-Modality: MR
-Samples Per Pixel: 1
-Photometric Interpretation: MONOCHROME2
-Pixel Spacing: 4\4
-Bits Allocated: 16
-Bits Stored: 12
-High Bit: 11
-Number of frames: 1
-Width: 384
-Height: 384
+Width: 256
+Height: 256
 Is Grayscale?: true
 Pixel Data present: true
 
@@ -454,153 +188,20 @@ Pixel Data present: true
 
 
 
-Patient Name: Anonymized
-Patient ID: 0
+Patient Name: 
+Patient ID: TCGA-08-0244
 Transfer Syntax: 1.2.840.10008.1.2
-SOP Class: 1.2.840.10008.5.1.4.1.1.7
-Modality: OT
-Samples Per Pixel: 1
-Photometric Interpretation: MONOCHROME2
-Pixel Spacing: NOT FOUND
-Bits Allocated: 8
-Bits Stored: 8
-High Bit: 7
-Number of frames: 1
-Width: 512
-Height: 512
-Is Grayscale?: true
-Pixel Data present: true
-
-
-
-Patient Name: Rubo DEMO
-Patient ID: 556342B
-Transfer Syntax: 1.2.840.10008.1.2.4.50
-SOP Class: 1.2.840.10008.5.1.4.1.1.12.1
-Modality: XA
-Samples Per Pixel: 1
-Photometric Interpretation: MONOCHROME2
-Pixel Spacing: NOT FOUND
-Bits Allocated: 8
-Bits Stored: 8
-High Bit: 7
-Number of frames: 96
-Width: 512
-Height: 512
-Is Grayscale?: true
-Pixel Data present: true
-
-
-
-Patient Name: Rubo DEMO
-Patient ID: 322-292-73-6
-Transfer Syntax: 1.2.840.10008.1.2.4.50
-SOP Class: 1.2.840.10008.5.1.4.1.1.12.1
-Modality: XA
-Samples Per Pixel: 1
-Photometric Interpretation: MONOCHROME2
-Pixel Spacing: NOT FOUND
-Bits Allocated: 8
-Bits Stored: 8
-High Bit: 7
-Number of frames: 17
-Width: 512
-Height: 512
-Is Grayscale?: true
-Pixel Data present: true
-
-
-
-Patient Name: BRAIN
-Patient ID: EZdPLEzJ
-Transfer Syntax: 1.2.840.10008.1.2.1
 SOP Class: 1.2.840.10008.5.1.4.1.1.4
 Modality: MR
 Samples Per Pixel: 1
 Photometric Interpretation: MONOCHROME2
-Pixel Spacing: 4\4
+Pixel Spacing: 1.0156250000\1.0156250000
 Bits Allocated: 16
-Bits Stored: 12
-High Bit: 11
+Bits Stored: 16
+High Bit: 15
 Number of frames: 1
-Width: 384
-Height: 384
-Is Grayscale?: true
-Pixel Data present: true
-
-
-
-Patient Name: Anonymized
-Patient ID: 0
-Transfer Syntax: 1.2.840.10008.1.2
-SOP Class: 1.2.840.10008.5.1.4.1.1.7
-Modality: OT
-Samples Per Pixel: 1
-Photometric Interpretation: MONOCHROME2
-Pixel Spacing: NOT FOUND
-Bits Allocated: 8
-Bits Stored: 8
-High Bit: 7
-Number of frames: 1
-Width: 512
-Height: 512
-Is Grayscale?: true
-Pixel Data present: true
-
-
-
-Patient Name: Rubo DEMO
-Patient ID: 556342B
-Transfer Syntax: 1.2.840.10008.1.2.4.50
-SOP Class: 1.2.840.10008.5.1.4.1.1.12.1
-Modality: XA
-Samples Per Pixel: 1
-Photometric Interpretation: MONOCHROME2
-Pixel Spacing: NOT FOUND
-Bits Allocated: 8
-Bits Stored: 8
-High Bit: 7
-Number of frames: 96
-Width: 512
-Height: 512
-Is Grayscale?: true
-Pixel Data present: true
-
-
-
-Patient Name: Rubo DEMO
-Patient ID: 322-292-73-6
-Transfer Syntax: 1.2.840.10008.1.2.4.50
-SOP Class: 1.2.840.10008.5.1.4.1.1.12.1
-Modality: XA
-Samples Per Pixel: 1
-Photometric Interpretation: MONOCHROME2
-Pixel Spacing: NOT FOUND
-Bits Allocated: 8
-Bits Stored: 8
-High Bit: 7
-Number of frames: 17
-Width: 512
-Height: 512
-Is Grayscale?: true
-Pixel Data present: true
-
-
-
-Patient Name: BRAIN
-Patient ID: EZdPLEzJ
-Transfer Syntax: 1.2.840.10008.1.2.1
-SOP Class: 1.2.840.10008.5.1.4.1.1.4
-Modality: MR
-Samples Per Pixel: 1
-Photometric Interpretation: MONOCHROME2
-Pixel Spacing: 4\4
-Bits Allocated: 16
-Bits Stored: 12
-High Bit: 11
-Number of frames: 1
-Width: 384
-Height: 384
+Width: 256
+Height: 256
 Is Grayscale?: true
 Pixel Data present: true
 
@@ -682,6 +283,25 @@ Pixel Data present: true
 
 
 
+Patient Name: 
+Patient ID: TCGA-08-0244
+Transfer Syntax: 1.2.840.10008.1.2
+SOP Class: 1.2.840.10008.5.1.4.1.1.4
+Modality: MR
+Samples Per Pixel: 1
+Photometric Interpretation: MONOCHROME2
+Pixel Spacing: 1.0156250000\1.0156250000
+Bits Allocated: 16
+Bits Stored: 16
+High Bit: 15
+Number of frames: 1
+Width: 256
+Height: 256
+Is Grayscale?: true
+Pixel Data present: true
+
+
+
 Patient Name: Anonymized
 Patient ID: 0
 Transfer Syntax: 1.2.840.10008.1.2
@@ -753,6 +373,500 @@ High Bit: 11
 Number of frames: 1
 Width: 384
 Height: 384
+Is Grayscale?: true
+Pixel Data present: true
+
+
+
+Patient Name: 
+Patient ID: TCGA-08-0244
+Transfer Syntax: 1.2.840.10008.1.2
+SOP Class: 1.2.840.10008.5.1.4.1.1.4
+Modality: MR
+Samples Per Pixel: 1
+Photometric Interpretation: MONOCHROME2
+Pixel Spacing: 1.0156250000\1.0156250000
+Bits Allocated: 16
+Bits Stored: 16
+High Bit: 15
+Number of frames: 1
+Width: 256
+Height: 256
+Is Grayscale?: true
+Pixel Data present: true
+
+
+
+Patient Name: Anonymized
+Patient ID: 0
+Transfer Syntax: 1.2.840.10008.1.2
+SOP Class: 1.2.840.10008.5.1.4.1.1.7
+Modality: OT
+Samples Per Pixel: 1
+Photometric Interpretation: MONOCHROME2
+Pixel Spacing: NOT FOUND
+Bits Allocated: 8
+Bits Stored: 8
+High Bit: 7
+Number of frames: 1
+Width: 512
+Height: 512
+Is Grayscale?: true
+Pixel Data present: true
+
+
+
+Patient Name: Rubo DEMO
+Patient ID: 556342B
+Transfer Syntax: 1.2.840.10008.1.2.4.50
+SOP Class: 1.2.840.10008.5.1.4.1.1.12.1
+Modality: XA
+Samples Per Pixel: 1
+Photometric Interpretation: MONOCHROME2
+Pixel Spacing: NOT FOUND
+Bits Allocated: 8
+Bits Stored: 8
+High Bit: 7
+Number of frames: 96
+Width: 512
+Height: 512
+Is Grayscale?: true
+Pixel Data present: true
+
+
+
+Patient Name: Rubo DEMO
+Patient ID: 322-292-73-6
+Transfer Syntax: 1.2.840.10008.1.2.4.50
+SOP Class: 1.2.840.10008.5.1.4.1.1.12.1
+Modality: XA
+Samples Per Pixel: 1
+Photometric Interpretation: MONOCHROME2
+Pixel Spacing: NOT FOUND
+Bits Allocated: 8
+Bits Stored: 8
+High Bit: 7
+Number of frames: 17
+Width: 512
+Height: 512
+Is Grayscale?: true
+Pixel Data present: true
+
+
+
+Patient Name: BRAIN
+Patient ID: EZdPLEzJ
+Transfer Syntax: 1.2.840.10008.1.2.1
+SOP Class: 1.2.840.10008.5.1.4.1.1.4
+Modality: MR
+Samples Per Pixel: 1
+Photometric Interpretation: MONOCHROME2
+Pixel Spacing: 4\4
+Bits Allocated: 16
+Bits Stored: 12
+High Bit: 11
+Number of frames: 1
+Width: 384
+Height: 384
+Is Grayscale?: true
+Pixel Data present: true
+
+
+
+Patient Name: 
+Patient ID: TCGA-08-0244
+Transfer Syntax: 1.2.840.10008.1.2
+SOP Class: 1.2.840.10008.5.1.4.1.1.4
+Modality: MR
+Samples Per Pixel: 1
+Photometric Interpretation: MONOCHROME2
+Pixel Spacing: 1.0156250000\1.0156250000
+Bits Allocated: 16
+Bits Stored: 16
+High Bit: 15
+Number of frames: 1
+Width: 256
+Height: 256
+Is Grayscale?: true
+Pixel Data present: true
+
+
+
+Patient Name: Anonymized
+Patient ID: 0
+Transfer Syntax: 1.2.840.10008.1.2
+SOP Class: 1.2.840.10008.5.1.4.1.1.7
+Modality: OT
+Samples Per Pixel: 1
+Photometric Interpretation: MONOCHROME2
+Pixel Spacing: NOT FOUND
+Bits Allocated: 8
+Bits Stored: 8
+High Bit: 7
+Number of frames: 1
+Width: 512
+Height: 512
+Is Grayscale?: true
+Pixel Data present: true
+
+
+
+Patient Name: Rubo DEMO
+Patient ID: 556342B
+Transfer Syntax: 1.2.840.10008.1.2.4.50
+SOP Class: 1.2.840.10008.5.1.4.1.1.12.1
+Modality: XA
+Samples Per Pixel: 1
+Photometric Interpretation: MONOCHROME2
+Pixel Spacing: NOT FOUND
+Bits Allocated: 8
+Bits Stored: 8
+High Bit: 7
+Number of frames: 96
+Width: 512
+Height: 512
+Is Grayscale?: true
+Pixel Data present: true
+
+
+
+Patient Name: Rubo DEMO
+Patient ID: 322-292-73-6
+Transfer Syntax: 1.2.840.10008.1.2.4.50
+SOP Class: 1.2.840.10008.5.1.4.1.1.12.1
+Modality: XA
+Samples Per Pixel: 1
+Photometric Interpretation: MONOCHROME2
+Pixel Spacing: NOT FOUND
+Bits Allocated: 8
+Bits Stored: 8
+High Bit: 7
+Number of frames: 17
+Width: 512
+Height: 512
+Is Grayscale?: true
+Pixel Data present: true
+
+
+
+Patient Name: BRAIN
+Patient ID: EZdPLEzJ
+Transfer Syntax: 1.2.840.10008.1.2.1
+SOP Class: 1.2.840.10008.5.1.4.1.1.4
+Modality: MR
+Samples Per Pixel: 1
+Photometric Interpretation: MONOCHROME2
+Pixel Spacing: 4\4
+Bits Allocated: 16
+Bits Stored: 12
+High Bit: 11
+Number of frames: 1
+Width: 384
+Height: 384
+Is Grayscale?: true
+Pixel Data present: true
+
+
+
+Patient Name: 
+Patient ID: TCGA-08-0244
+Transfer Syntax: 1.2.840.10008.1.2
+SOP Class: 1.2.840.10008.5.1.4.1.1.4
+Modality: MR
+Samples Per Pixel: 1
+Photometric Interpretation: MONOCHROME2
+Pixel Spacing: 1.0156250000\1.0156250000
+Bits Allocated: 16
+Bits Stored: 16
+High Bit: 15
+Number of frames: 1
+Width: 256
+Height: 256
+Is Grayscale?: true
+Pixel Data present: true
+
+
+
+Patient Name: Anonymized
+Patient ID: 0
+Transfer Syntax: 1.2.840.10008.1.2
+SOP Class: 1.2.840.10008.5.1.4.1.1.7
+Modality: OT
+Samples Per Pixel: 1
+Photometric Interpretation: MONOCHROME2
+Pixel Spacing: NOT FOUND
+Bits Allocated: 8
+Bits Stored: 8
+High Bit: 7
+Number of frames: 1
+Width: 512
+Height: 512
+Is Grayscale?: true
+Pixel Data present: true
+
+
+
+Patient Name: Rubo DEMO
+Patient ID: 556342B
+Transfer Syntax: 1.2.840.10008.1.2.4.50
+SOP Class: 1.2.840.10008.5.1.4.1.1.12.1
+Modality: XA
+Samples Per Pixel: 1
+Photometric Interpretation: MONOCHROME2
+Pixel Spacing: NOT FOUND
+Bits Allocated: 8
+Bits Stored: 8
+High Bit: 7
+Number of frames: 96
+Width: 512
+Height: 512
+Is Grayscale?: true
+Pixel Data present: true
+
+
+
+Patient Name: Rubo DEMO
+Patient ID: 322-292-73-6
+Transfer Syntax: 1.2.840.10008.1.2.4.50
+SOP Class: 1.2.840.10008.5.1.4.1.1.12.1
+Modality: XA
+Samples Per Pixel: 1
+Photometric Interpretation: MONOCHROME2
+Pixel Spacing: NOT FOUND
+Bits Allocated: 8
+Bits Stored: 8
+High Bit: 7
+Number of frames: 17
+Width: 512
+Height: 512
+Is Grayscale?: true
+Pixel Data present: true
+
+
+
+Patient Name: BRAIN
+Patient ID: EZdPLEzJ
+Transfer Syntax: 1.2.840.10008.1.2.1
+SOP Class: 1.2.840.10008.5.1.4.1.1.4
+Modality: MR
+Samples Per Pixel: 1
+Photometric Interpretation: MONOCHROME2
+Pixel Spacing: 4\4
+Bits Allocated: 16
+Bits Stored: 12
+High Bit: 11
+Number of frames: 1
+Width: 384
+Height: 384
+Is Grayscale?: true
+Pixel Data present: true
+
+
+
+Patient Name: 
+Patient ID: TCGA-08-0244
+Transfer Syntax: 1.2.840.10008.1.2
+SOP Class: 1.2.840.10008.5.1.4.1.1.4
+Modality: MR
+Samples Per Pixel: 1
+Photometric Interpretation: MONOCHROME2
+Pixel Spacing: 1.0156250000\1.0156250000
+Bits Allocated: 16
+Bits Stored: 16
+High Bit: 15
+Number of frames: 1
+Width: 256
+Height: 256
+Is Grayscale?: true
+Pixel Data present: true
+
+
+
+Patient Name: Anonymized
+Patient ID: 0
+Transfer Syntax: 1.2.840.10008.1.2
+SOP Class: 1.2.840.10008.5.1.4.1.1.7
+Modality: OT
+Samples Per Pixel: 1
+Photometric Interpretation: MONOCHROME2
+Pixel Spacing: NOT FOUND
+Bits Allocated: 8
+Bits Stored: 8
+High Bit: 7
+Number of frames: 1
+Width: 512
+Height: 512
+Is Grayscale?: true
+Pixel Data present: true
+
+
+
+Patient Name: Rubo DEMO
+Patient ID: 556342B
+Transfer Syntax: 1.2.840.10008.1.2.4.50
+SOP Class: 1.2.840.10008.5.1.4.1.1.12.1
+Modality: XA
+Samples Per Pixel: 1
+Photometric Interpretation: MONOCHROME2
+Pixel Spacing: NOT FOUND
+Bits Allocated: 8
+Bits Stored: 8
+High Bit: 7
+Number of frames: 96
+Width: 512
+Height: 512
+Is Grayscale?: true
+Pixel Data present: true
+
+
+
+Patient Name: Rubo DEMO
+Patient ID: 322-292-73-6
+Transfer Syntax: 1.2.840.10008.1.2.4.50
+SOP Class: 1.2.840.10008.5.1.4.1.1.12.1
+Modality: XA
+Samples Per Pixel: 1
+Photometric Interpretation: MONOCHROME2
+Pixel Spacing: NOT FOUND
+Bits Allocated: 8
+Bits Stored: 8
+High Bit: 7
+Number of frames: 17
+Width: 512
+Height: 512
+Is Grayscale?: true
+Pixel Data present: true
+
+
+
+Patient Name: BRAIN
+Patient ID: EZdPLEzJ
+Transfer Syntax: 1.2.840.10008.1.2.1
+SOP Class: 1.2.840.10008.5.1.4.1.1.4
+Modality: MR
+Samples Per Pixel: 1
+Photometric Interpretation: MONOCHROME2
+Pixel Spacing: 4\4
+Bits Allocated: 16
+Bits Stored: 12
+High Bit: 11
+Number of frames: 1
+Width: 384
+Height: 384
+Is Grayscale?: true
+Pixel Data present: true
+
+
+
+Patient Name: 
+Patient ID: TCGA-08-0244
+Transfer Syntax: 1.2.840.10008.1.2
+SOP Class: 1.2.840.10008.5.1.4.1.1.4
+Modality: MR
+Samples Per Pixel: 1
+Photometric Interpretation: MONOCHROME2
+Pixel Spacing: 1.0156250000\1.0156250000
+Bits Allocated: 16
+Bits Stored: 16
+High Bit: 15
+Number of frames: 1
+Width: 256
+Height: 256
+Is Grayscale?: true
+Pixel Data present: true
+
+
+
+Patient Name: Anonymized
+Patient ID: 0
+Transfer Syntax: 1.2.840.10008.1.2
+SOP Class: 1.2.840.10008.5.1.4.1.1.7
+Modality: OT
+Samples Per Pixel: 1
+Photometric Interpretation: MONOCHROME2
+Pixel Spacing: NOT FOUND
+Bits Allocated: 8
+Bits Stored: 8
+High Bit: 7
+Number of frames: 1
+Width: 512
+Height: 512
+Is Grayscale?: true
+Pixel Data present: true
+
+
+
+Patient Name: Rubo DEMO
+Patient ID: 556342B
+Transfer Syntax: 1.2.840.10008.1.2.4.50
+SOP Class: 1.2.840.10008.5.1.4.1.1.12.1
+Modality: XA
+Samples Per Pixel: 1
+Photometric Interpretation: MONOCHROME2
+Pixel Spacing: NOT FOUND
+Bits Allocated: 8
+Bits Stored: 8
+High Bit: 7
+Number of frames: 96
+Width: 512
+Height: 512
+Is Grayscale?: true
+Pixel Data present: true
+
+
+
+Patient Name: Rubo DEMO
+Patient ID: 322-292-73-6
+Transfer Syntax: 1.2.840.10008.1.2.4.50
+SOP Class: 1.2.840.10008.5.1.4.1.1.12.1
+Modality: XA
+Samples Per Pixel: 1
+Photometric Interpretation: MONOCHROME2
+Pixel Spacing: NOT FOUND
+Bits Allocated: 8
+Bits Stored: 8
+High Bit: 7
+Number of frames: 17
+Width: 512
+Height: 512
+Is Grayscale?: true
+Pixel Data present: true
+
+
+
+Patient Name: BRAIN
+Patient ID: EZdPLEzJ
+Transfer Syntax: 1.2.840.10008.1.2.1
+SOP Class: 1.2.840.10008.5.1.4.1.1.4
+Modality: MR
+Samples Per Pixel: 1
+Photometric Interpretation: MONOCHROME2
+Pixel Spacing: 4\4
+Bits Allocated: 16
+Bits Stored: 12
+High Bit: 11
+Number of frames: 1
+Width: 384
+Height: 384
+Is Grayscale?: true
+Pixel Data present: true
+
+
+
+Patient Name: 
+Patient ID: TCGA-08-0244
+Transfer Syntax: 1.2.840.10008.1.2
+SOP Class: 1.2.840.10008.5.1.4.1.1.4
+Modality: MR
+Samples Per Pixel: 1
+Photometric Interpretation: MONOCHROME2
+Pixel Spacing: 1.0156250000\1.0156250000
+Bits Allocated: 16
+Bits Stored: 16
+High Bit: 15
+Number of frames: 1
+Width: 256
+Height: 256
 Is Grayscale?: true
 Pixel Data present: true
 

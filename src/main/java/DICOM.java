@@ -11,10 +11,8 @@ import com.pixelmed.display.SourceImage;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
-import java.io.BufferedWriter;
-import java.io.File;
-import java.io.FileWriter;
-import java.io.FilenameFilter;
+import java.io.*;
+import java.lang.reflect.Field;
 import java.util.ArrayList;
 
 public class DICOM {
@@ -22,20 +20,47 @@ public class DICOM {
     private static AttributeList list = new AttributeList();
     private static final String FILE_TEXT_EXT = ".dcm";
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
 
         /*
          * Below String stores the path to the current user directory.
          */
 
         String FILE_DIRECTORY = System.getProperty("user.dir");
-        System.out.println("Your base directory is: "+FILE_DIRECTORY);
+        System.out.println("Your base directory is: " + FILE_DIRECTORY);
 
         /*
          * The follwing JSONArray stores data for every DICOM file as a seperate JSONObject
          */
 
         JSONArray metaDataArray = new JSONArray();
+
+        /*
+         * The follwing is the algorithm to get all the attributes available for extraction from the PixelMed Library.
+         */
+
+        Field[] tags = TagFromName.class.getFields();
+        ArrayList<String> tagnames = new ArrayList<>();
+        
+        for (int j = 0; j < tags.length; j++) {
+            try {
+                String tags1 = tags[j].toString();
+                String tagname = tags1.substring(83);
+                tagnames.add(tagname);
+
+            } catch (StringIndexOutOfBoundsException e) {
+                System.out.println(e.toString());
+                continue;
+            }
+
+            File file = new File(FILE_DIRECTORY + File.separator + "tags.txt");
+            FileWriter fr1 = new FileWriter(file, false);
+            BufferedWriter br1 = new BufferedWriter(fr1);
+            br1.write(tagnames.toString());
+            br1.close();
+            fr1.close();
+        }
+
 
         /*
          * Following ArrayList stores the path of all valid DICOM files in the current directory
@@ -46,7 +71,7 @@ public class DICOM {
 
         try {
             while (ITERATION_PARAMETER < FileList.size()) {
-                System.out.println("Found DICOM file: "+FileList.get(ITERATION_PARAMETER));
+                System.out.println("Found DICOM file: " + FileList.get(ITERATION_PARAMETER));
                 list.read(FileList.get(ITERATION_PARAMETER));
 
                 /*
@@ -79,8 +104,8 @@ public class DICOM {
                  * FileWriter Object is used to write the obtained MetaData information into a text file in the same user directory
                  */
 
-                File file = new File(FILE_DIRECTORY + File.separator + "DICOM_MetaData.txt");
-                FileWriter fr = new FileWriter(file, true);
+                File filedcm = new File(FILE_DIRECTORY + File.separator + "DICOM_MetaData.txt");
+                FileWriter fr = new FileWriter(filedcm, true);
                 BufferedWriter br = new BufferedWriter(fr);
                 br.write("Patient Name: " + getTagInformation(TagFromName.PatientName) + "\n");
                 br.write("Patient ID: " + getTagInformation(TagFromName.PatientID) + "\n");
