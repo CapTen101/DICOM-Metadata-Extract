@@ -41,7 +41,7 @@ public class DICOM {
 
         Field[] tags = TagFromName.class.getFields();
         ArrayList<String> tagnames = new ArrayList<>();
-        
+
         for (int j = 0; j < tags.length; j++) {
             try {
                 String tags1 = tags[j].toString();
