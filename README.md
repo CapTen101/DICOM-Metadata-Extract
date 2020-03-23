@@ -18,15 +18,19 @@ Used libraries:
 Steps to run the application:
 
 * Step-1: (Clone the project)
+
 `git clone https://github.com/CapTen101/DICOM-Metadata-Extract.git`
 
 * Step-1: (In the project directory, build the project)
+
 `mvn compile`
 
 * Step-2: (Install all the necessary dependencies)
+
 `mvn install`
 
 * Step-3: (Run the project)
+
 `java -cp target/DICOM-Extract.jar DICOM`
 
 You can observe the required output.
