@@ -5,7 +5,7 @@
 * It then extracts the necessary metadata out of them and stores it in a text file **DICOM_MetaData.txt** in the project directory.
 
 Used libraries:
-* pixelmed
+* [PixelMed JAVA DICOM Toolkit](http://www.pixelmed.com/dicomtoolkit.html)
 
 
 **Ensure the below prerequisites:**
