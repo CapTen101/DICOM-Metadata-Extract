@@ -8,14 +8,14 @@ Used libraries:
 * pixelmed
 
 
-**Ensure** the below prerequisites:
+**Ensure the below prerequisites:**
 * All Dicom images must be placed in the current project directory.
 * Maven in installed in your system.
 (If not, run the following command)
 `sudo apt install maven`
 
 
-Steps to run the application:
+**Steps to run the application:**
 
 * Step-1: (Clone the project)
 
