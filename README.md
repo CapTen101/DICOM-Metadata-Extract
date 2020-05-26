@@ -1,4 +1,6 @@
-# DICOM-Metadata-Extract (Code Challenge under [caMicroscope](https://github.com/camicroscope))
+# DICOM-Metadata-Extract
+
+# (Code Challenge under [caMicroscope](https://github.com/camicroscope))
 > A Simple JAVA project to extract metadata out of the DICOM image files using pixelmed.jar. 
 
 > DICOM® (Digital Imaging and Communications in Medicine) is the international standard to transmit, store, retrieve, print, process, and display medical imaging information. Inside every DICOM file, there is not only an image but some metadata too containing various kinds of information about that particular image, test, patient ID, Body part examined etc. 
