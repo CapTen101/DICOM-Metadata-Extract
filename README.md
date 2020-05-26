@@ -5,7 +5,7 @@
 
 
 This Application automatically locates the DICOM image files from the project directory.
-It then extracts the necessary metadata out of them and stores it in a text file **DICOM_MetaData.txt** in the project directory.
+It then extracts the necessary metadata out of them and stores it in a text file **DICOM_MetaData.txt** in the project directory itself :innocent:
 
 Used libraries: [PixelMed JAVA DICOM Toolkit](http://www.pixelmed.com/dicomtoolkit.html)
 
