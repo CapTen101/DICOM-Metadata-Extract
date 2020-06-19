@@ -14,7 +14,7 @@ Used libraries: [PixelMed JAVA DICOM Toolkit](http://www.pixelmed.com/dicomtoolk
 
 **Ensure the below prerequisites:**
 * All Dicom images must be placed in the current project directory.
-* Maven in installed in your system.
+* Maven is installed in your system.
 (If not, run the following command)
 `sudo apt install maven`
 
